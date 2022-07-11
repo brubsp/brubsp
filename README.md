@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brubsp :) .
 - 👀 I’m interested in learning new progaming languages.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and Java.
 - 📫 Reach me by email (brubsppioner@gmail.com).
 
 <!---
